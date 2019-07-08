@@ -19,7 +19,7 @@ function add2(n) {
 
   // Feel free to move things around!
   var two= 2;
-  return add2(8)
+  return add2(8 + two)
 }
 
 var funkyFunction = function() {
